@@ -50,7 +50,7 @@ To test other stocks or another period, edit the config block at the top of `das
 
 ## Results
 
-![Dashboard](output/dashboard.png)
+![Dashboard](dashboard.png)
 
 Between January 2019 and November 2026, the equal-weight blue chip basket returned 16.1% per year, compared with 10.1% for listed real estate and 7.7% for the SMI. Volatility was close across the three (15.7%, 15.3% and 14.7%), so the Sharpe ratio ranked blue chips first (1.02), real estate second (0.66) and the SMI last (0.53), using a risk-free rate of 0. Maximum drawdowns were similar, between 27.5% and 31.2%. The three real estate stocks moved closely together and were visibly less correlated with the blue chips. Among single stocks, ABB and UBS had the highest returns and volatility, while Nestle had the lowest return.
 
